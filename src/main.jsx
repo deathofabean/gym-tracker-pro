@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import GymTracker from './gym-tracker-pro';
+import GetPhockingRipped from './get-phocking-ripped';  // ← This line is critical!
 import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <GymTracker />
+    <GetPhockingRipped />
   </React.StrictMode>,
 );
