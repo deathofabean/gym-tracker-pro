@@ -1,11 +1,11 @@
 {
-  "name": "Get Phocking Ripped",
-  "short_name": "Phocking Ripped",
-  "description": "Noodle your way to gains - Track workouts and get phocking ripped!",
+  "name": "PR or ER",
+  "short_name": "PR or ER",
+  "description": "Personal Record or Emergency Room - Track workouts and crush PRs",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#7f1d1d",
-  "theme_color": "#7f1d1d",
+  "background_color": "#0f1419",
+  "theme_color": "#0f1419",
   "orientation": "portrait",
   "icons": [
     {
